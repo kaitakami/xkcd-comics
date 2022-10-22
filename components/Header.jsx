@@ -4,7 +4,7 @@ import { Container } from "@nextui-org/react";
 
 const Header = () => {
   return (
-    <header className="flex justify-between items-center p-4 max-w-xl m-auto">
+    <header className="flex justify-between items-center py-4 px-8 sm:px-20 max-w-screen-xl m-auto">
       <h1 className="font-bold text-xl">
         Next<span className="font-light">xkcd</span>
       </h1>
